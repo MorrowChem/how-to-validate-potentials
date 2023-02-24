@@ -1,4 +1,4 @@
-# How to validate ML potentials
+# How to validate ML potentials &nbsp;&nbsp;&nbsp;&nbsp; [![DOI](https://zenodo.org/badge/599064648.svg)](https://zenodo.org/badge/latestdoi/599064648)
 
 Some tutorial-style examples for validating machine-learned interatomic potentials, to accompany the article:
 
