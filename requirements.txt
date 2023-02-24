@@ -1,0 +1,9 @@
+ase
+imageio
+matplotlib
+notebook
+pandas
+quippy-ase
+scikit-learn
+imageio
+scipy

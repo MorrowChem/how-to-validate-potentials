@@ -1,0 +1,5 @@
+lammps
+log.lammps
+lammps_runs/*
+potentials/*
+__pycache__
