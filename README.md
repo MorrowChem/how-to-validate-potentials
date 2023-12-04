@@ -5,21 +5,21 @@ Some tutorial-style examples for validating machine-learned interatomic potentia
 <div align="center">
 
 > **[How to validate machine-learned interatomic potentials](https://arxiv.org/abs/2211.12484)**\
-> _[Joe D. Morrow](https://twitter.com/JoeMorrow3594), [John L. A. Gardner](https://twitter.com/jla_gardner), and [Volker L. Deringer](http://deringer.chem.ox.ac.uk)_
+> _[Joe D. Morrow](https://twitter.com/JoeMorrow3594), [John L. A. Gardner](https://jla-gardner.github.io), and [Volker L. Deringer](http://deringer.chem.ox.ac.uk)_
 
 </div>
  
  
 # Files
-1. [`demo-error-metrics.ipynb`](demo-error-metrics.ipynb): A Python implementation of the RMSE and MAE metrics described in Fig 3. of the [article](https://arxiv.org/abs/2211.12484)
+1. [`demo-error-metrics.ipynb`](demo-error-metrics.ipynb): A Python implementation of the RMSE and MAE metrics described in Fig 3. of the [article](https://arxiv.org/abs/2211.12484). (authored by [John](https://jla-gardner.github.io))
 
-2. [`demo-error-scaling.ipynb`](demo-error-scaling.ipynb): A notebook to analyse the error scaling of the RMSE per atom with system size, as in Fig. 4
+2. [`demo-error-scaling.ipynb`](demo-error-scaling.ipynb): A notebook to analyse the error scaling of the RMSE per atom with system size, as in Fig. 4. (authored by [John](https://jla-gardner.github.io))
 
-3. [`demo-rotation-invariance.ipynb`](demo-rotation-invariance.ipynb): A demonstration of the dependence of force component MAEs on the orientation of the system
+3. [`demo-rotation-invariance.ipynb`](demo-rotation-invariance.ipynb): A demonstration of the dependence of force component MAEs on the orientation of the system. (authored by [John](https://jla-gardner.github.io))
 
-4. [`demo-similarity.ipynb`](demo-similarity.ipynb): A notebook that uses the SOAP kernel to analyse a 10,000-atom compression MD simulation of silicon, as in Fig. 7
+4. [`demo-similarity.ipynb`](demo-similarity.ipynb): A notebook that uses the SOAP kernel to analyse a 10,000-atom compression MD simulation of silicon, as in Fig. 7. (authored by [Joe](https://twitter.com/JoeMorrow3594))
 
-5. [`demo-rss.ipynb`](demo-rss.ipynb): A notebook that creates initial 'sensible' random structures (using the `buildcell` code) and generates the plots from Fig. 8.
+5. [`demo-rss.ipynb`](demo-rss.ipynb): A notebook that creates initial 'sensible' random structures (using the `buildcell` code) and generates the plots from Fig. 8. (authored by [Joe](https://twitter.com/JoeMorrow3594))
 
 # Installation
 
